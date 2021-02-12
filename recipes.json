@@ -1,0 +1,3732 @@
+{
+  "the_red_dog": {
+    "keys": [
+      "k",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_gerstmann": {
+    "keys": [
+      "k",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_classic_corn_dog": {
+    "keys": [
+      "k",
+      "m",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_yellow_dog": {
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_classic_pretzel": {
+    "keys": [
+      "s",
+      "b",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_dry_twister": {
+    "keys": [
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_sweet_twist": {
+    "keys": [
+      "b",
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_buttery_curves": {
+    "keys": [
+      "b",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "cinnamon_pretzel": {
+    "keys": [
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_salty_knot": {
+    "keys": [
+      "s",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_cola": {
+    "keys": [
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_cola": {
+    "keys": [
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_cola_no_ice": {
+    "keys": [
+      "up",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_diet": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_cola": {
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "i",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_grape": {
+    "keys": [
+      "right",
+      "right",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_diet": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_cola_no_ice": {
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_water_no_ice": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_water": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "i",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_tea": {
+    "keys": [
+      "right",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_grape": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_diet": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_diet_cola_no_ice": {
+    "keys": [
+      "up",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_water": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_tea": {
+    "keys": [
+      "right",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_grape": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_cola_no_ice": {
+    "keys": [
+      "up",
+      "up",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_water": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_tea": {
+    "keys": [
+      "right",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_cola": {
+    "keys": [
+      "up",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_grape": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_diet": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_cola_no_ice": {
+    "keys": [
+      "up",
+      "up",
+      "up",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_water": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_tea": {
+    "keys": [
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_cola_wflavor_blast": {
+    "keys": [
+      "up",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_grape_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_diet_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_cola_no_ice_wflavor_blast": {
+    "keys": [
+      "up",
+      "up",
+      "up",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "f",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_water_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jumbo_tea_wflavor_blast": {
+    "keys": [
+      "right",
+      "up",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_cola_wflavor_blast": {
+    "keys": [
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_grape_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_diet_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_cola_w_ice_flavor_blast": {
+    "keys": [
+      "f",
+      "i",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_cola_no_ice_wflavor_blast": {
+    "keys": [
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_water_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "small_tea_wflavor_blast": {
+    "keys": [
+      "right",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_cola_wflavor_blast": {
+    "keys": [
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_grape_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "medium_diet_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_cola_wflavor_blast": {
+    "keys": [
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_grape_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "large_diet_wflavor_blast": {
+    "keys": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "up",
+      "up",
+      "i",
+      "f",
+      {
+        "key": "down",
+        "downTime": 0.2
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "work_ticket_clean": {
+    "keys": [
+      "down",
+      "s"
+    ],
+    "sleepAfter": 0.5,
+    "type": "standard"
+  },
+  "work_ticket_trash": {
+    "keys": [
+      {
+        "key": "up",
+        "downTime": 0.2
+      },
+      {
+        "key": "right",
+        "downTime": 0.2
+      },
+      {
+        "key": "up",
+        "downTime": 0.2
+      },
+      {
+        "key": "right",
+        "downTime": 0.2
+      },
+      {
+        "key": "up",
+        "downTime": 0.2
+      },
+      {
+        "key": "right",
+        "downTime": 0.2
+      },
+      "s",
+      "s"
+    ],
+    "sleep": 0.3,
+    "sleepAfter": 0.5,
+    "type": "standard"
+  },
+  "work_ticket_rodents": {
+    "keys": [
+      "right",
+      "down",
+      "c",
+      "s"
+    ],
+    "sleepAfter": 0.2,
+    "type": "standard"
+  },
+  "work_ticket_dishes": {
+    "keys": [
+      "left",
+      "right",
+      "left",
+      "right",
+      "up",
+      "left",
+      "right",
+      "left",
+      "right",
+      "up",
+      "left",
+      "right",
+      "left",
+      "right",
+      "up",
+      "left",
+      "right",
+      "left",
+      "right",
+      "up"
+    ],
+    "sleepAfter": 0.5,
+    "type": "standard"
+  },
+  "the_rich_brewsky": {
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 1.85
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_brewsky": {
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 1.85
+      },
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "blt": {
+    "keys": [
+      "b",
+      "l",
+      "t",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "blt_and_c": {
+    "keys": [
+      "b",
+      "l",
+      "t",
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_tumbleweed": {
+    "keys": [
+      "b",
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_veggie": {
+    "keys": [
+      "l",
+      "t",
+      "p",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "plain_vanilla": {
+    "keys": [
+      "v",
+      "v",
+      "v",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "plain_chocolate": {
+    "keys": [
+      "c",
+      "c",
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "vanilla_and_chocolate": {
+    "keys": [
+      "v",
+      "c",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_yin_and_yang": {
+    "keys": [
+      "v",
+      "c",
+      "h",
+      "p",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "cherry_vanilla": {
+    "keys": [
+      "v",
+      "v",
+      "h",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "chocolate_sprinkles": {
+    "keys": [
+      "c",
+      "c",
+      "p",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "minty_deluxe": {
+    "keys": [
+      "m",
+      "m",
+      "h",
+      "w",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "mint_cherry": {
+    "keys": [
+      "m",
+      "m",
+      "h",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "nutty_mint": {
+    "keys": [
+      "m",
+      "m",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "nutty_vanilla": {
+    "keys": [
+      "v",
+      "v",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "nutty_chocolate": {
+    "keys": [
+      "c",
+      "c",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "vanilla_dream": {
+    "keys": [
+      "v",
+      "v",
+      "v",
+      "h",
+      "o",
+      "p",
+      "s",
+      "w",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "chocolate_heaven": {
+    "keys": [
+      "c",
+      "m",
+      "m",
+      "h",
+      "o",
+      "p",
+      "s",
+      "w",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "deluxe_butter_pecan": {
+    "keys": [
+      "b",
+      "b",
+      "h",
+      "o",
+      "p",
+      "s",
+      "w",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "buttery_nuts": {
+    "keys": [
+      "b",
+      "b",
+      "h",
+      "w",
+      "n",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "birthday_surprise": {
+    "keys": [
+      "v",
+      "c",
+      "b",
+      "h",
+      "o",
+      "p",
+      "w",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "trio_of_delicious": {
+    "keys": [
+      "v",
+      "c",
+      "m",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "the_fiesta_bowl": {
+    "keys": [
+      "c",
+      "m",
+      "b",
+      "h",
+      "p",
+      "s",
+      "w",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "veggie_nachos": {
+    "keys": [
+      "q",
+      "v",
+      "j",
+      "t",
+      "o",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "sour_veggie_nachos": {
+    "keys": [
+      "q",
+      "c",
+      "v",
+      "j",
+      "t",
+      "o",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "guac_a_nachos": {
+    "keys": [
+      "q",
+      "u",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "fiesty_nachos": {
+    "keys": [
+      "q",
+      "c",
+      "u",
+      "j",
+      "o",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "guac_and_chips": {
+    "keys": [
+      "u",
+      "j",
+      "t",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "jalanacho": {
+    "keys": [
+      "q",
+      "j",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "bowl_of_chips": {
+    "keys": [
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "scoops_of_plenty": {
+    "keys": [
+      "q",
+      "c",
+      "u",
+      "o",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "mexican_fiesta": {
+    "keys": [
+      "q",
+      "c",
+      "v",
+      "j",
+      "t",
+      "o",
+      "b",
+      "r",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "rice_and_beans": {
+    "keys": [
+      "q",
+      "b",
+      "r",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "spicy_rice_special": {
+    "keys": [
+      "q",
+      "c",
+      "j",
+      "t",
+      "o",
+      "r",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "classic_steak": {
+    "type": "async",
+    "cookTime": 24.0,
+    "keys": [
+      "s",
+      "s",
+      "s",
+      "j",
+      "enter"
+    ]
+  },
+  "citrus_steak": {
+    "type": "async",
+    "cookTime": 24.0,
+    "keys": [
+      "s",
+      "j",
+      "j",
+      "c",
+      "enter"
+    ]
+  },
+  "spicy_steak": {
+    "type": "async",
+    "cookTime": 24.0,
+    "keys": [
+      "s",
+      "p",
+      "p",
+      "p",
+      "p",
+      "j",
+      "j",
+      "enter"
+    ]
+  },
+  "the_dry_spicy_steak": {
+    "type": "async",
+    "cookTime": 24.0,
+    "keys": [
+      "s",
+      "p",
+      "p",
+      "enter"
+    ]
+  },
+  "the_heartstopper": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "m",
+      "b",
+      "b",
+      "c",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_red": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "t",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_veggie": {
+    "type": "standard",
+    "keys": [
+      "l",
+      "t",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_pickler": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "c",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_trio": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "t",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_pd": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "m",
+      "b",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_stacked": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "l",
+      "b",
+      "c",
+      "t",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_greens": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "keys2": [
+      "m",
+      "l",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_original": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "l",
+      "b",
+      "c",
+      "t",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_double": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "m",
+      "l",
+      "b",
+      "c",
+      "t",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_lite_delight": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "l",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_ryan_davis": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "b",
+      "c",
+      "c",
+      "t",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_lonely_patty": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_triple": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "m",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "m",
+      "m",
+      "c",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_triple_wbacon": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "m",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "m",
+      "m",
+      "b",
+      "c",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_trio": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "t",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_p_d": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "m",
+      "b",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_stacked": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "l",
+      "b",
+      "c",
+      "t",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "the_greens": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "l",
+      "p",
+      "enter"
+    ],
+    "sleep": 0.1,
+    "sleepAfter": 0.6
+  },
+  "classic_baked_potato": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys2": [
+      "c",
+      "s",
+      "y",
+      "enter"
+    ]
+  },
+  "the_pickler": {
+    "type": "complex",
+    "keys": [
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "m",
+      "c",
+      "p",
+      "enter"
+    ]
+  },
+  "classic_patotato_w_bacon": {
+    "type": "complex",
+    "cookTime": 11.0,
+    "keys2": [
+      "c",
+      "s",
+      "y",
+      "b",
+      "enter"
+    ]
+  },
+  "classic_nachos": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "surpreme_nachos": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "c",
+      "j",
+      "t",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "royal_nachos": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "c",
+      "u",
+      "v",
+      "j",
+      "t",
+      "o",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "italian_style_nachos": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "v",
+      "o",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "the_chubigans_special": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "b",
+      "r",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "mexican_siesta": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "u",
+      "b",
+      "r",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "beef_and_beans": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "b",
+      "space",
+      "g",
+      "enter"
+    ]
+  },
+  "shrimp_nachos": {
+    "type": "complex",
+    "keys": [
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "c",
+      "u",
+      "j",
+      "t",
+      "space",
+      "s",
+      "enter"
+    ]
+  },
+  "deluxe_shrimp_nachos": {
+    "type": "complex",
+    "keys": [
+      "g",
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "c",
+      "u",
+      "v",
+      "j",
+      "t",
+      "o",
+      "b",
+      "space",
+      "s",
+      "g",
+      "enter"
+    ]
+  },
+  "new_orleans_nachos": {
+    "type": "complex",
+    "keys": [
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "u",
+      "v",
+      "t",
+      "b",
+      "r",
+      "space",
+      "s",
+      "enter"
+    ]
+  },
+  "classic_shrimp_nachos": {
+    "type": "complex",
+    "keys": [
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0,
+    "keys2": [
+      "q",
+      "c",
+      "u",
+      "space",
+      "s",
+      "enter"
+    ]
+  },
+  "pepperoni_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "cheese_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "meat_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "pm_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "cheesy_bread": {
+    "type": "async",
+    "keys": [
+      "c",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "meatlovers_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "b",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "veggie_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "space",
+      "u",
+      "v",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "deluxe_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "b",
+      "space",
+      "u",
+      "v",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "italian_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "m",
+      "space",
+      "u",
+      "v",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "bacon_and_mushroom_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "b",
+      "space",
+      "u",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "olives_and_onions_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "space",
+      "v",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "the_pcgb_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "b",
+      "space",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "anchovy_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "a",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "deluxe_anchovy_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "a",
+      "space",
+      "u",
+      "v",
+      "n",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "meaty_anchovy_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "b",
+      "a",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "dairylite_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "a",
+      "space",
+      "u",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "pineapple_and_ham_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "h",
+      "space",
+      "i",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "the_hawaiian_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "b",
+      "h",
+      "space",
+      "n",
+      "i",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "sweet_veggie_p": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "space",
+      "u",
+      "v",
+      "i",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "extra_meat_lovers_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "b",
+      "h",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "super_surpreme_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "p",
+      "m",
+      "b",
+      "a",
+      "h",
+      "space",
+      "u",
+      "v",
+      "n",
+      "i",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "the_h_a_m_pizza": {
+    "type": "async",
+    "keys": [
+      "t",
+      "c",
+      "a",
+      "h",
+      "space",
+      "u",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "junior_classic": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "m",
+      "b",
+      "enter"
+    ]
+  },
+  "triple_maple": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "p",
+      "m",
+      "b",
+      "enter"
+    ]
+  },
+  "dual_maple_stack": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "m",
+      "b",
+      "enter"
+    ]
+  },
+  "junior_redberry": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "s",
+      "b",
+      "enter"
+    ]
+  },
+  "triple_red_stack": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "p",
+      "s",
+      "b",
+      "enter"
+    ]
+  },
+  "double_strawberry": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "s",
+      "b",
+      "enter"
+    ]
+  },
+  "dry_single": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "b",
+      "enter"
+    ]
+  },
+  "triple_dry": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "p",
+      "b",
+      "enter"
+    ]
+  },
+  "double_desert": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "b",
+      "enter"
+    ]
+  },
+  "junior_blueberry": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "enter"
+    ],
+    "cookTime": 8,
+    "keys2": [
+      "p",
+      "l",
+      "b",
+      "enter"
+    ]
+  },
+  "blue_double_stack": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "l",
+      "b",
+      "enter"
+    ]
+  },
+  "triple_berry_blue": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "p",
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "p",
+      "p",
+      "l",
+      "b",
+      "enter"
+    ]
+  },
+  "the_lonely_pancake": {
+    "type": "complex",
+    "keys": [
+      "p",
+      "enter"
+    ],
+    "cookTime": 6.5,
+    "keys2": [
+      "p",
+      "enter"
+    ]
+  },
+  "egg_biscuit": {
+    "type": "async",
+    "keys": [
+      "e",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "the_deluxe": {
+    "type": "async",
+    "keys": [
+      "e",
+      "s",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "double_am": {
+    "type": "async",
+    "keys": [
+      "e",
+      "s",
+      "b",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "header_header": {
+    "type": "async",
+    "keys": [
+      "e",
+      "s",
+      "h",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "morning_fuel": {
+    "type": "async",
+    "keys": [
+      "s",
+      "b",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "sunrise_sandwich": {
+    "type": "async",
+    "keys": [
+      "s",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "the_classic": {
+    "type": "async",
+    "keys": [
+      "e",
+      "b",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "cheesy_deluxe": {
+    "type": "async",
+    "keys": [
+      "e",
+      "s",
+      "c",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "cheesy_am": {
+    "type": "async",
+    "keys": [
+      "s",
+      "c",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "the_early_bird": {
+    "type": "async",
+    "keys": [
+      "e",
+      "s",
+      "b",
+      "c",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "tower_biscuit": {
+    "type": "async",
+    "keys": [
+      "b",
+      "c",
+      "enter"
+    ],
+    "cookTime": 8
+  },
+  "the_mix": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "b",
+      "o",
+      "enter"
+    ]
+  },
+  "the_dry_greens": {
+    "type": "standard",
+    "keys": [
+      "g",
+      "enter"
+    ]
+  },
+  "pepper_ranch": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "o",
+      "enter"
+    ]
+  },
+  "cheesy_leaves": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "enter"
+    ]
+  },
+  "house_salad": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "b",
+      "enter"
+    ]
+  },
+  "salad_verde": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "g",
+      "enter"
+    ]
+  },
+  "the_thousand_salad": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "g",
+      "enter"
+    ]
+  },
+  "the_thousand_peppers": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "o",
+      "enter"
+    ]
+  },
+  "thousand_house": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "b",
+      "enter"
+    ]
+  },
+  "thousand_tomatoes": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "m",
+      "enter"
+    ]
+  },
+  "three_thousand": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "b",
+      "o",
+      "g",
+      "enter"
+    ]
+  },
+  "a_thousand_flavors": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "c",
+      "b",
+      "o",
+      "m",
+      "g",
+      "enter"
+    ]
+  },
+  "the_oily_pepper": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "c",
+      "o",
+      "enter"
+    ]
+  },
+  "the_oil_bleu": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "c",
+      "b",
+      "o",
+      "m",
+      "g",
+      "enter"
+    ]
+  },
+  "vinaigrette_house": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "c",
+      "b",
+      "enter"
+    ]
+  },
+  "the_oily_greens": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "m",
+      "g",
+      "enter"
+    ]
+  },
+  "cheesy_vinaigrette": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "c",
+      "enter"
+    ]
+  },
+  "vinaigrette_classic": {
+    "type": "standard",
+    "keys": [
+      "v",
+      "c",
+      "o",
+      "b",
+      "m",
+      "enter"
+    ]
+  },
+  "the_manhattan": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "b",
+      "o",
+      "m",
+      "g",
+      "enter"
+    ]
+  },
+  "tuna_platter": {
+    "keys": [
+      "e",
+      "r",
+      "t",
+      "u",
+      "u",
+      "u",
+      "u",
+      "u",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "standard_sampler": {
+    "keys": [
+      "e",
+      "e",
+      "r",
+      "r",
+      "t",
+      "t",
+      "u",
+      "u",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "roe_special": {
+    "keys": [
+      "e",
+      "e",
+      "e",
+      "r",
+      "r",
+      "r",
+      "r",
+      "t",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "ocean_plate": {
+    "keys": [
+      "e",
+      "e",
+      "e",
+      "r",
+      "r",
+      "t",
+      "u",
+      "u",
+      "enter"
+    ],
+    "type": "standard"
+  },
+  "toro_special": {
+    "type": "standard",
+    "keys": [
+      "e",
+      "r",
+      "t",
+      "t",
+      "t",
+      "t",
+      "t",
+      "u",
+      "enter"
+    ]
+  },
+  "ebi_special": {
+    "type": "standard",
+    "keys": [
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "r",
+      "t",
+      "u",
+      "enter"
+    ]
+  },
+  "the_dry_deluxe": {
+    "type": "standard",
+    "keys": [
+      "m",
+      "g",
+      "enter"
+    ]
+  },
+  "tomato_ranch": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "m",
+      "enter"
+    ]
+  },
+  "sea_spirit": {
+    "type": "standard",
+    "keys": [
+      "e",
+      "r",
+      "r",
+      "t",
+      "t",
+      "t",
+      "u",
+      "u",
+      "enter"
+    ]
+  },
+  "mixed_delicious": {
+    "type": "standard",
+    "keys": [
+      "e",
+      "e",
+      "r",
+      "r",
+      "r",
+      "t",
+      "t",
+      "u",
+      "enter"
+    ]
+  },
+  "kids_delight": {
+    "type": "standard",
+    "keys": [
+      "r",
+      "c",
+      "enter"
+    ]
+  },
+  "cheesy_peppers": {
+    "type": "standard",
+    "keys": [
+      "c",
+      "o",
+      "enter"
+    ]
+  },
+  "the_big_salad": {
+    "type": "standard",
+    "keys": [
+      "c",
+      "g",
+      "enter"
+    ]
+  },
+  "check_out_my_picture": {
+    "type": "standard",
+    "keys": [
+      "t",
+      "enter"
+    ]
+  },
+  "delicious_sopapillas": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.0
+      },
+      "p",
+      "s",
+      "enter"
+    ]
+  },
+  "delicious_lite_sopapillas": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.0
+      },
+      "p",
+      "enter"
+    ]
+  },
+  "chicken_noodle_soup": {
+    "type": "async",
+    "keys": [
+      "k",
+      "w",
+      "u",
+      "space",
+      "y",
+      "down",
+      "down",
+      "down",
+      "enter"
+    ],
+    "sleep": 0.2,
+    "cookTime": 14
+  },
+  "soup_du_jour": {
+    "type": "async",
+    "keys": [
+      "w",
+      "u",
+      "s",
+      "space",
+      "t",
+      "down",
+      "down",
+      "down",
+      "a",
+      "down",
+      "down",
+      "down",
+      "y",
+      "down",
+      "down",
+      "down",
+      "enter"
+    ],
+    "sleep": 0.2,
+    "cookTime": 14
+  },
+  "vegetable_soup": {
+    "type": "async",
+    "keys": [
+      "space",
+      "t",
+      "down",
+      "down",
+      "down",
+      "a",
+      "down",
+      "down",
+      "down",
+      "y",
+      "down",
+      "down",
+      "down",
+      "l",
+      "down",
+      "down",
+      "down",
+      "d",
+      "enter"
+    ],
+    "sleep": 0.2,
+    "cookTime": 14
+  },
+  "baristobo_soup": {
+    "type": "async",
+    "keys": [
+      "k",
+      "w",
+      "s",
+      "p",
+      "space",
+      "a",
+      "down",
+      "down",
+      "down",
+      "l",
+      "down",
+      "down",
+      "down",
+      "enter"
+    ],
+    "sleep": 0.2,
+    "cookTime": 14
+  },
+  "grey_tail_fish": {
+    "type": "async",
+    "keys": [
+      "left",
+      "down",
+      "right",
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "long_body_brown_raccuda": {
+    "type": "async",
+    "keys": [
+      "left",
+      "down",
+      "right",
+      "s",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "long_body_brown_raccuda_wlemon": {
+    "type": "async",
+    "keys": [
+      "left",
+      "down",
+      "right",
+      "s",
+      "l",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "le_cheap_valuwine": {
+    "type": "standard",
+    "keys": [
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "enter"
+    ]
+  },
+  "casu_marzu": {
+    "type": "standard",
+    "keys": [
+      "w",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "enter"
+    ]
+  },
+  "serpent_beard": {
+    "type": "standard",
+    "keys": [
+      "w",
+      "w",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "up",
+      "enter"
+    ]
+  },
+  "classic_italian_lasagna": {
+    "type": "async",
+    "keys": [
+      "p",
+      "s",
+      "c",
+      "r",
+      "p",
+      "s",
+      "c",
+      "r",
+      "p",
+      "s",
+      "c",
+      "r",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "meaty_rome_lasagna": {
+    "type": "async",
+    "keys": [
+      "p",
+      "s",
+      "m",
+      "c",
+      "r",
+      "p",
+      "s",
+      "m",
+      "c",
+      "r",
+      "p",
+      "s",
+      "c",
+      "r",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "vegetable_lasagna": {
+    "type": "async",
+    "keys": [
+      "p",
+      "s",
+      "v",
+      "c",
+      "r",
+      "p",
+      "s",
+      "v",
+      "c",
+      "r",
+      "p",
+      "s",
+      "c",
+      "r",
+      "enter"
+    ],
+    "cookTime": 11.0
+  },
+  "classic_kabob": {
+    "type": "async",
+    "keys": [
+      "t",
+      "g",
+      "t",
+      "g",
+      "r",
+      "m",
+      "r",
+      "k",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "meaty_kabob": {
+    "type": "async",
+    "keys": [
+      "m",
+      "k",
+      "m",
+      "k",
+      "m",
+      "k",
+      "t",
+      "g",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "pepper_kabob": {
+    "type": "async",
+    "keys": [
+      "g",
+      "r",
+      "g",
+      "r",
+      "g",
+      "r",
+      "t",
+      "m",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "red_kabob": {
+    "type": "async",
+    "keys": [
+      "t",
+      "r",
+      "t",
+      "r",
+      "t",
+      "r",
+      "g",
+      "m",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "kabobber": {
+    "type": "async",
+    "keys": [
+      "t",
+      "m",
+      "k",
+      "t",
+      "m",
+      "k",
+      "g",
+      "r",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "chicken_kabob": {
+    "type": "async",
+    "keys": [
+      "t",
+      "k",
+      "t",
+      "k",
+      "g",
+      "k",
+      "r",
+      "k",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "classic_fried_rice": {
+    "type": "async",
+    "keys": [
+      "f",
+      "p",
+      "c",
+      "e",
+      "o",
+      "enter"
+    ],
+    "cookTime": 8.5
+  },
+  "lite_fried_rice": {
+    "type": "async",
+    "keys": [
+      "f",
+      "p",
+      "c",
+      "enter"
+    ],
+    "cookTime": 8.5
+  },
+  "sour_fried_rice": {
+    "type": "async",
+    "keys": [
+      "f",
+      "e",
+      "o",
+      "enter"
+    ],
+    "cookTime": 8.5
+  },
+  "sweet_fried_rice": {
+    "type": "async",
+    "keys": [
+      "f",
+      "p",
+      "c",
+      "e",
+      "enter"
+    ],
+    "cookTime": 8.5
+  },
+  "greasy_fried_chicken": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 5.0
+      },
+      "p",
+      "enter"
+    ]
+  },
+  "golden_fried_chicken": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 5.0
+      },
+      "p",
+      "enter"
+    ]
+  },
+  "fast_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "a",
+      "enter"
+    ]
+  },
+  "lite_fast_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "enter"
+    ]
+  },
+  "thick_cut_lite_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "enter"
+    ]
+  },
+  "thick_cut_sea_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "e",
+      "enter"
+    ]
+  },
+  "thick_cut_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "a",
+      "enter"
+    ]
+  },
+  "sweet_potato_mix_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "a",
+      "s",
+      "enter"
+    ]
+  },
+  "sweetest_potato_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "s",
+      "enter"
+    ]
+  },
+  "sweet_potato_sea_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "e",
+      "enter"
+    ]
+  },
+  "sweet_potato_fries": {
+    "type": "standard",
+    "keys": [
+      {
+        "key": "down",
+        "downTime": 4.5
+      },
+      "p",
+      "a",
+      "enter"
+    ]
+  },
+  "bananas_foster": {
+    "type": "async",
+    "keys": [
+      "b",
+      {
+        "key": "s",
+        "downTime": 3.5
+      },
+      "a",
+      "enter"
+    ],
+    "cookTime": 9.5
+  },
+  "plump_chicken_breast": {
+    "type": "async",
+    "keys": [
+      "t",
+      "t",
+      "t",
+      "t",
+      "t",
+      "t",
+      "s",
+      "enter"
+    ],
+    "cookTime": 20.0
+  },
+  "classic_chicken_breast": {
+    "type": "async",
+    "keys": [
+      "t",
+      "t",
+      "t",
+      "t",
+      "t",
+      "t",
+      "s",
+      "enter"
+    ],
+    "cookTime": 20.0
+  },
+  "cheese_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "classic_spaghetti": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "m",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "red_veggie_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "p",
+      "u",
+      "s",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "the_meaty_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "m",
+      "k",
+      "b",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "hot_bacon_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "b",
+      "p",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_onion_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_meaty_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "m",
+      "k",
+      "b",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_deluxe_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "m",
+      "k",
+      "b",
+      "p",
+      "u",
+      "s",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "red_deluxe_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "m",
+      "k",
+      "b",
+      "p",
+      "u",
+      "s",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_chicken_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "k",
+      "b",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "spaghetti_deluxe": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "m",
+      "b",
+      "u",
+      "s",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_veggie_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "p",
+      "u",
+      "s",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "creamy_alfredo": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "w",
+      "space",
+      "k",
+      "s",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "the_carbonara": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "w",
+      "space",
+      "k",
+      "b",
+      "p",
+      "u",
+      "i",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "creamy_meat_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "w",
+      "space",
+      "m",
+      "k",
+      "b",
+      "u",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "creamy_veggie_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "w",
+      "space",
+      "p",
+      "u",
+      "s",
+      "o",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "spicy_bacon_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "b",
+      "i",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "spicy_spaghetti": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "m",
+      "i",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "the_dry_tomato": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "space",
+      "m",
+      "t",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "red_pasta_rally": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "r",
+      "space",
+      "p",
+      "i",
+      "t",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "dry_veggie_pasta": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "space",
+      "p",
+      "s",
+      "i",
+      "t",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "cheesy_tomato": {
+    "type": "complex",
+    "keys": [
+      "r",
+      "enter"
+    ],
+    "keys2": [
+      "c",
+      "space",
+      "i",
+      "t",
+      "enter"
+    ],
+    "cookTime": 15.0
+  },
+  "classic_lite_lobster": {
+    "type": "complex",
+    "keys": [
+      "l",
+      "enter"
+    ],
+    "keys2": [
+      "enter"
+    ],
+    "cookTime": 16.0
+  },
+  "classic_lite_lobster": {
+    "type": "complex",
+    "keys": [
+      "l",
+      "enter"
+    ],
+    "keys2": [
+      "enter"
+    ],
+    "cookTime": 16.0
+  },
+  "classic_lobster": {
+    "type": "complex",
+    "keys": [
+      "l",
+      "enter"
+    ],
+    "keys2": [
+      "b",
+      "enter"
+    ],
+    "cookTime": 16.0
+  },
+  "buttery_lobster": {
+    "type": "complex",
+    "keys": [
+      "l",
+      "enter"
+    ],
+    "keys2": [
+      "b",
+      "b",
+      "enter"
+    ],
+    "cookTime": 16.0
+  },
+  "junior_stack": {
+    "type": "standard",
+    "keys": [
+      "down",
+      "up",
+      "t",
+      "c",
+      "enter"
+    ]
+  },
+  "double_stack": {
+    "type": "standard",
+    "keys": [
+      "down",
+      "up",
+      "t",
+      "down",
+      "up",
+      "t",
+      "c",
+      "enter"
+    ]
+  },
+  "triple_wegg": {
+    "type": "standard",
+    "keys": [
+      "down",
+      "up",
+      "t",
+      "down",
+      "up",
+      "t",
+      "down",
+      "up",
+      "t",
+      "c",
+      "e",
+      "enter"
+    ]
+  },
+  "triple_stack": {
+    "type": "standard",
+    "keys": [
+      "down",
+      "up",
+      "t",
+      "down",
+      "up",
+      "t",
+      "down",
+      "up",
+      "t",
+      "c",
+      "enter"
+    ]
+  }
+}

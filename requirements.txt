@@ -1,0 +1,4 @@
+pywin32
+Pillow
+opencv-python
+pytesseract
